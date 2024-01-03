@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\3 - Builders">
+      <UniqueIdentifier>{deabbe40-0c51-4d9f-8977-a34d4a338316}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\4 - Factories">
+      <UniqueIdentifier>{1fa9c203-c226-471b-8ec4-017b47a1fb6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\5 - Prototypes">
+      <UniqueIdentifier>{7594ea52-112c-4ec2-bf22-86880565021a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\6 - Singleton">
+      <UniqueIdentifier>{eb628be5-ddd4-4180-a061-7a77ed2cbb77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\7 - Adapter">
+      <UniqueIdentifier>{043c8397-0861-4a92-83dd-a3859838e079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\8 - Bridge">
+      <UniqueIdentifier>{1380f8b0-c352-4f29-bd18-c36bc85b86ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\9 - Composite">
+      <UniqueIdentifier>{4f5529db-8070-43b0-853a-66fa4f523e68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\10 - Decorator">
+      <UniqueIdentifier>{ace7ef01-5f87-49bf-8f08-65f215c11680}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\12 - Flyweigth">
+      <UniqueIdentifier>{433dcaa2-cf7e-42ef-bd1d-62e0c3315305}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\13 - Proxy">
+      <UniqueIdentifier>{13e8a593-6377-46e8-96f9-56febb08f3aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\14 - Chain of Responsibility">
+      <UniqueIdentifier>{7162d7fc-7eb7-428e-a141-51ac9680c76d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BuilderExercise.cpp">
+      <Filter>Source Files\3 - Builders</Filter>
+    </ClCompile>
+    <ClCompile Include="BuilderExercise-ptr.cpp">
+      <Filter>Source Files\3 - Builders</Filter>
+    </ClCompile>
+    <ClCompile Include="Point.cpp">
+      <Filter>Source Files\4 - Factories</Filter>
+    </ClCompile>
+    <ClCompile Include="Point-Inner Factory.cpp">
+      <Filter>Source Files\4 - Factories</Filter>
+    </ClCompile>
+    <ClCompile Include="PersonExercise.cpp">
+      <Filter>Source Files\4 - Factories</Filter>
+    </ClCompile>
+    <ClCompile Include="Line.cpp">
+      <Filter>Source Files\5 - Prototypes</Filter>
+    </ClCompile>
+    <ClCompile Include="Singleton Implementation.cpp">
+      <Filter>Source Files\6 - Singleton</Filter>
+    </ClCompile>
+    <ClCompile Include="AdapterExercise.cpp">
+      <Filter>Source Files\7 - Adapter</Filter>
+    </ClCompile>
+    <ClCompile Include="BridgeExercise.cpp">
+      <Filter>Source Files\8 - Bridge</Filter>
+    </ClCompile>
+    <ClCompile Include="GeotricShapes.cpp">
+      <Filter>Source Files\9 - Composite</Filter>
+    </ClCompile>
+    <ClCompile Include="NeuralNetwork.cpp">
+      <Filter>Source Files\9 - Composite</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayBackedProperties.cpp">
+      <Filter>Source Files\9 - Composite</Filter>
+    </ClCompile>
+    <ClCompile Include="CompositeExercise.cpp">
+      <Filter>Source Files\9 - Composite</Filter>
+    </ClCompile>
+    <ClCompile Include="DecoratorExercise.cpp">
+      <Filter>Source Files\10 - Decorator</Filter>
+    </ClCompile>
+    <ClCompile Include="HandMade_Flyweigth.cpp">
+      <Filter>Source Files\12 - Flyweigth</Filter>
+    </ClCompile>
+    <ClCompile Include="FlyweigthExercise.cpp">
+      <Filter>Source Files\12 - Flyweigth</Filter>
+    </ClCompile>
+    <ClCompile Include="PropertyProxy.cpp">
+      <Filter>Source Files\13 - Proxy</Filter>
+    </ClCompile>
+    <ClCompile Include="Proxy_RefactoringGuru.cpp">
+      <Filter>Source Files\13 - Proxy</Filter>
+    </ClCompile>
+    <ClCompile Include="ProxyExercise.cpp">
+      <Filter>Source Files\13 - Proxy</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerChain.cpp">
+      <Filter>Source Files\14 - Chain of Responsibility</Filter>
+    </ClCompile>
+    <ClCompile Include="CoR_Exercise.cpp">
+      <Filter>Source Files\14 - Chain of Responsibility</Filter>
+    </ClCompile>
+    <ClCompile Include="Interpreter-Exercise.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="capitals.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
