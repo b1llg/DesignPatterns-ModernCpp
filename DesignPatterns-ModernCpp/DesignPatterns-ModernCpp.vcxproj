@@ -46,6 +46,9 @@
     <ClCompile Include="Singleton Implementation.cpp" />
     <ClCompile Include="PropertyProxy.cpp" />
     <ClCompile Include="StateExercise.cpp" />
+    <ClCompile Include="StrategyExercise.cpp" />
+    <ClCompile Include="TemplateExercise.cpp" />
+    <ClCompile Include="VisitorExercise.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="capitals.txt" />

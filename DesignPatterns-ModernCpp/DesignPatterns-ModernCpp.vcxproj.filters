@@ -64,6 +64,15 @@
     <Filter Include="Source Files\21 - State">
       <UniqueIdentifier>{b6265a0e-53e4-4bda-832f-85dbf65de6a4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\22 - Strategy">
+      <UniqueIdentifier>{1c334ee7-31d1-4ecc-9e90-a7f73ac93c72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\23 - Template">
+      <UniqueIdentifier>{61e0f834-c39b-40b4-9376-603c47a3d00b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\24 - Visitor">
+      <UniqueIdentifier>{5b56a3ea-5f62-4779-9b5e-f0c40be0601e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BuilderExercise.cpp">
@@ -146,6 +155,15 @@
     </ClCompile>
     <ClCompile Include="StateExercise.cpp">
       <Filter>Source Files\21 - State</Filter>
+    </ClCompile>
+    <ClCompile Include="StrategyExercise.cpp">
+      <Filter>Source Files\22 - Strategy</Filter>
+    </ClCompile>
+    <ClCompile Include="TemplateExercise.cpp">
+      <Filter>Source Files\23 - Template</Filter>
+    </ClCompile>
+    <ClCompile Include="VisitorExercise.cpp">
+      <Filter>Source Files\24 - Visitor</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
