@@ -46,6 +46,21 @@
     <Filter Include="Source Files\14 - Chain of Responsibility">
       <UniqueIdentifier>{7162d7fc-7eb7-428e-a141-51ac9680c76d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\17 - Iterator">
+      <UniqueIdentifier>{611b948e-c634-4691-9aed-8896e280bff1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\16 - Interpreter">
+      <UniqueIdentifier>{dfa1a2ab-102c-4d82-b098-733db0bd5cb4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\18 - Mediator">
+      <UniqueIdentifier>{e63f8aff-963a-4fe7-aa9f-67dab54dc81b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\19 - Memento">
+      <UniqueIdentifier>{5a8d0e85-ee3b-4180-bc49-e7035c54c8ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\20 - Observer">
+      <UniqueIdentifier>{9035ec86-c8e7-4f6d-9b8e-c66fbca92857}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BuilderExercise.cpp">
@@ -112,7 +127,19 @@
       <Filter>Source Files\14 - Chain of Responsibility</Filter>
     </ClCompile>
     <ClCompile Include="Interpreter-Exercise.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\16 - Interpreter</Filter>
+    </ClCompile>
+    <ClCompile Include="Iterator-Exercise.cpp">
+      <Filter>Source Files\17 - Iterator</Filter>
+    </ClCompile>
+    <ClCompile Include="MediatorExercise.cpp">
+      <Filter>Source Files\18 - Mediator</Filter>
+    </ClCompile>
+    <ClCompile Include="MementoExercise.cpp">
+      <Filter>Source Files\19 - Memento</Filter>
+    </ClCompile>
+    <ClCompile Include="ObserverExercise.cpp">
+      <Filter>Source Files\20 - Observer</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

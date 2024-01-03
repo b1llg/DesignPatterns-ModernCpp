@@ -29,8 +29,12 @@
     <ClCompile Include="DecoratorExercise.cpp" />
     <ClCompile Include="GeotricShapes.cpp" />
     <ClCompile Include="Interpreter-Exercise.cpp" />
+    <ClCompile Include="Iterator-Exercise.cpp" />
     <ClCompile Include="Line.cpp" />
+    <ClCompile Include="MediatorExercise.cpp" />
+    <ClCompile Include="MementoExercise.cpp" />
     <ClCompile Include="NeuralNetwork.cpp" />
+    <ClCompile Include="ObserverExercise.cpp" />
     <ClCompile Include="PersonExercise.cpp" />
     <ClCompile Include="Point-Inner Factory.cpp" />
     <ClCompile Include="Point.cpp" />
